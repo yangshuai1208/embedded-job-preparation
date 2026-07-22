@@ -26,3 +26,22 @@
 * 面试可讲点
 
 每次代码或文档修改都需要同步提交到 GitHub，确保每天都有可追踪的秋招准备成果。
+## 第1周完成情况
+
+第五个月第1周已经完成：
+
+- 主要项目 README 审计
+- env-monitor-v2 README 完善
+- linux-iot-gateway README 整理
+- aiot-smart-glasses README 精简
+- STM32F407 灵动手项目整理
+- AIoT 系统级架构与协议说明
+- 简历 v2 初稿
+
+当前已形成三个秋招主项目：
+
+1. STM32 + FreeRTOS 环境监测与报警系统
+2. Linux IoT Gateway
+3. AIoT 智能眼镜与具身智能灵动手控制系统
+
+后续重点转入 C++ 基础补强、Linux 网关模块升级、ESP-IDF OTA、ROS2 最小闭环及岗位投递。
